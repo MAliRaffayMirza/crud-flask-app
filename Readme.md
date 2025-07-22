@@ -54,15 +54,6 @@ This project was **built entirely by me** — without using frameworks like Djan
 
 ---
 
-## 📂 Project Files
-
-```bash
-├── CRUD Flask.py        # Full application logic and routing
-├── details.txt          # Stores all user data and task lists
-└── (Static/Template folders may be added in the future)```
-
----
-
 ## ✅ What I Learned
 
 - The full flow of a Flask application from homepage to dashboard  
@@ -102,3 +93,12 @@ I made this completely on my own, taking help only where absolutely needed to un
 📩 [aliraffayofficial@gmail.com](mailto:aliraffayofficial@gmail.com)  
 🌍 Based in Pakistan — looking for Werkstudent roles in Germany 🇩🇪  
 💼 Fluent in Python, HTML, Flask, C++, and learning more every day.
+
+---
+
+## 📂 Project Files
+
+```bash
+├── CRUD Flask.py        # Full application logic and routing
+├── details.txt          # Stores all user data and task lists
+└── (Static/Template folders may be added in the future)```
