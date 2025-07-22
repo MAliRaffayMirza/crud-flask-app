@@ -96,6 +96,12 @@ I made this completely on my own, taking help only where absolutely needed to un
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Click here to view the deployed app](https://crud-flask-app-v01o.onrender.com/)
+
+---
+
 ## 📂 Project Files
 
 ```bash
