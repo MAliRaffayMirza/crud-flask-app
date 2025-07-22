@@ -59,48 +59,46 @@ This project was **built entirely by me** — without using frameworks like Djan
 ```bash
 ├── CRUD Flask.py        # Full application logic and routing
 ├── details.txt          # Stores all user data and task lists
-└── (Static/Template folders may be added in the future)
+└── (Static/Template folders may be added in the future)```
 
 ---
 
-✅ What I Learned
-The full flow of a Flask application from homepage to dashboard
+## ✅ What I Learned
 
-Difference between GET and POST methods
+- The full flow of a Flask application from homepage to dashboard  
+- Difference between GET and POST methods  
+- Handling form data securely  
+- Managing and storing data using files  
+- Using session to persist user state  
+- How to implement real-world user validations  
 
-Handling form data securely
+---
 
-Managing and storing data using files
+## 🛡️ Next Features
 
-Using session to persist user state
+- 🔐 Encrypt passwords using `hashlib.sha256()`  
+- 🔄 Refactor into modular files (blueprints or MVC)  
+- 📦 Replace file storage with SQLite  
+- 🧪 Write tests for routes and forms  
 
-How to implement real-world user validations
+---
 
-🛡️ Next Features
+## 🎯 Why This Project Matters
 
-🔐 Encrypt passwords using hashlib.sha256()
-
-🔄 Refactor into modular files (blueprints or MVC)
-
-📦 Replace file storage with SQLite
-
-🧪 Write tests for routes and forms
-
-🎯 Why This Project Matters
 This project shows:
 
-My ability to write clean and working code
-
-My persistence in learning backend logic
-
-My skills in turning a concept into a full product
-
-That I can build useful web tools even without a team or full-stack experience
+- My ability to write clean and working code  
+- My persistence in learning backend logic  
+- My skills in turning a concept into a full product  
+- That I can build useful web tools even without a team or full-stack experience  
 
 I made this completely on my own, taking help only where absolutely needed to understand the logic — not to copy code.
 
-📧 Contact Me
-Muhammad Ali Raffay
-📩 aliraffayofficial@gmail.com
-🌍 Based in Pakistan — looking for Werkstudent roles in Germany 🇩🇪
+---
+
+## 📧 Contact Me
+
+**Muhammad Ali Raffay**  
+📩 [aliraffayofficial@gmail.com](mailto:aliraffayofficial@gmail.com)  
+🌍 Based in Pakistan — looking for Werkstudent roles in Germany 🇩🇪  
 💼 Fluent in Python, HTML, Flask, C++, and learning more every day.
