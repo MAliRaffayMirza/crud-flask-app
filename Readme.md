@@ -101,4 +101,4 @@ I made this completely on my own, taking help only where absolutely needed to un
 ```bash
 ├── CRUD Flask.py        # Full application logic and routing
 ├── details.txt          # Stores all user data and task lists
-└── (Static/Template folders may be added in the future)```
+└── (Static/Template folders may be added in the future)
